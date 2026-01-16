@@ -8,8 +8,7 @@ My projects focus on **robot perception, automation, and intelligent systems**, 
 
 - Humanoid & Manipulation Robotics  
 - Vision-Based Motion Understanding  
-- Learning from Human Demonstrations  
-- Robot Kinematics, Dynamics & Stability (ZMP, COM)  
+- Learning from Human Demonstrations   
 - Reinforcement Learning for Robotic Control  
 - Human-Centered and Interpretable AI Systems  
 
